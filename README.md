@@ -1,4 +1,4 @@
-Pathfinder algorythm implementation (A*)
+Pathfinder algorithm implementation (A*)
 ========================================
 
 This has been done quite a while ago and is provided as-is.
